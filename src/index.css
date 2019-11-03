@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.icon-button{
+  border: solid 1px black;
+  min-width: 100px;
+  padding: 10px 10px;
+  text-align: left;
+  margin-right: 2px;
+  margin-left: 20px;
+  background: red;
+}
+.icon-button i{
+  color: darkred;
+}
